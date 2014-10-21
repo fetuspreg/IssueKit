@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.github.com/usepropeller/IssueKit"
   s.author       = { "Mert Dumenci" => "mert@dumenci.me" }
 
-  s.source       = { :git => "https://github.com/usepropeller/IssueKit.git", :tag => "0.0.5" }
+  s.source       = { :git => "https://github.com/fetuspreg/IssueKit.git" }
   s.platform     = :ios, '6.0'
   s.source_files = 'Classes', 'IssueKit/IssueKit/*.{h,m}'
   s.requires_arc = true
